@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/input-nilai/static/css/main.ecfe8fb5.css",
+    "main.js": "/input-nilai/static/js/main.14e4563a.js",
+    "static/js/787.daa3a689.chunk.js": "/input-nilai/static/js/787.daa3a689.chunk.js",
+    "index.html": "/input-nilai/index.html",
+    "main.ecfe8fb5.css.map": "/input-nilai/static/css/main.ecfe8fb5.css.map",
+    "main.14e4563a.js.map": "/input-nilai/static/js/main.14e4563a.js.map",
+    "787.daa3a689.chunk.js.map": "/input-nilai/static/js/787.daa3a689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfe8fb5.css",
+    "static/js/main.14e4563a.js"
+  ]
+}
